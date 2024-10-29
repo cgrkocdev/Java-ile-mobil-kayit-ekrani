@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KayitEkrani</string>
+    <string name="etYazisi">İsminizi Giriniz...</string>
+    <string name="tvYazisi">Hoşgeldiniz</string>
+    <string name="butonYazisi">Kaydet</string>
+</resources>
